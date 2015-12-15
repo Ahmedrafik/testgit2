@@ -22,5 +22,9 @@ public class Main {
 		else 
 			System.out.println(test);
 	}
+	
+	public boolean truefct(){
+		return true;
+	}
 
 }
